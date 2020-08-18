@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto";
+  background-color: #fafafa;
+}
+
+body {
+  background-color: #fafafa;
+}
+
+#progressContainer {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.progress {
+  width: 0%;
+  height: 20px;
+  background-color: blue;
+  border-radius: 10px;
+}
+h5 {
+  display: inline-block;
+}
+
+i {
+  color: greenyellow;
+  margin-left: 90%;
+  font-size: xx-large;
+}
+
+.fa-trash {
+  color: red;
+}
+
+.taskDiv {
+  height: 100vh;
+}
+
+#task {
+  height: 39px;
+  border: 2px solid grey;
+}
+
+.main {
+  margin: 70px;
+}
